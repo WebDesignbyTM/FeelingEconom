@@ -1,0 +1,24 @@
+{
+  "name": "feelingeconom",
+  "version": "1.0.0",
+  "description": "Personal budget management application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDesignbyTM/FeelingEconom.git"
+  },
+  "keywords": [
+    "feelingeconom",
+    "econom",
+    "budget"
+  ],
+  "author": "Marin Ciprian & Ghiorghiu Ioan-Viorel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDesignbyTM/FeelingEconom/issues"
+  },
+  "homepage": "https://github.com/WebDesignbyTM/FeelingEconom#readme"
+}
